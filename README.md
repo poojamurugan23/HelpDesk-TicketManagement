@@ -98,7 +98,7 @@ Each ticket can have one of the following statuses:
 
 1️⃣ A **user logs in** and raises a support ticket  
 2️⃣ The ticket is marked as **Open**  
-3️⃣ An **admin views all tickets** from the dashboard  
+3️⃣ An **admin views all tickets** from the dashboard-- [**DEFINITELY A FUTURE ENHANCEMENT !!!**]  
 4️⃣ Admin **assigns the ticket** and sets priority  
 5️⃣ Admin communicates with the user if needed  
 6️⃣ Ticket status changes based on progress  
