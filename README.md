@@ -1,5 +1,4 @@
 
-````md
 # 🎫 HelpDesk Ticket Management System  
 *A Full-Stack MERN Application*
 
